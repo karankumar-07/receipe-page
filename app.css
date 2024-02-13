@@ -1,0 +1,37 @@
+h1, h2{
+    font-family: 'Young Serif', serif;
+}
+h2{
+    color: hsl(14, 45%, 36%);;
+}
+
+body > p{
+    font-size: 16px;
+}
+
+body{
+    background-color: hsl(30, 54%, 90%);
+    font-family: 'Outfit', sans-serif;
+}
+
+.container-prep{
+    background-color: #fff0f3;
+}
+
+
+
+.custom-th{
+    color:  hsl(14, 45%, 36%);
+}
+
+.container-outer{
+    max-width: 75%;
+    max-height: 80%;
+    padding: 40px;
+    margin-top: 20%;
+    border-radius: 30px;
+}
+
+table{
+    border-spacing: 90px 0;
+}
